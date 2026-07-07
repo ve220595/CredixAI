@@ -1,0 +1,2 @@
+Input: financial dataset
+Output: risk score = 0.68 (medium risk)
