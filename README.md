@@ -1,5 +1,14 @@
 # 🚀 CredixAI
 
+AI-powered credit risk engine for Web3.
+
+---
+
+## 🧠 What is this?
+
+CredixAI is an experimental system that explores how credit scoring can be redefined in decentralized environments.
+# 🚀 CredixAI
+
 AI-powered credit risk analysis toolkit.
 
 # CredixAI
